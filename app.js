@@ -19,16 +19,16 @@
 
 // console.log(add(12, 8));
 
-class circle {
-  constructor(radius) {
-    this.radius = radius;
-  }
+// class circle {
+//   constructor(radius) {
+//     this.radius = radius;
+//   }
 
-  getArea() {
-    return this.radius * this.radius * Math.PI;
-  }
-}
+//   getArea() {
+//     return this.radius * this.radius * Math.PI;
+//   }
+// }
 
-let c1 = new circle(8);
-console.log(c1.radius);
-console.log(c1.getArea());
+// let c1 = new circle(8);
+// console.log(c1.radius);
+// console.log(c1.getArea());
